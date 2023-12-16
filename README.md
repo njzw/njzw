@@ -4,7 +4,7 @@ Self-taught developer with 4 years of hands-on experience, specializing in build
 
 ## 💼 Professional Experience
 
-- **Full Stack Developer** at [ContiTouch Technologies](https://www.cintitouch.co.zw) (May 2019 - Present)
+- **Full Stack Developer** at [ContiTouch Technologies](https://www.contitouch.co.zw) (May 2019 - Present)
   - Developed and maintained robust web applications using Laravel and Tailwind CSS.
   - Implemented responsive and intuitive user interfaces with Flutter for cross-platform mobile applications.
   - Designed and optimized MySQL databases for efficient data storage and retrieval.
