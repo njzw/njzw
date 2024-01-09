@@ -31,6 +31,6 @@ I am passionate about continuous learning and staying at the forefront of techno
 
 While I'm deeply committed to my work, I believe in cherishing valuable family time. Balancing professional growth with personal life is crucial, and I strive to maintain that equilibrium in my journey.
 
-Let's collaborate and create something amazing! Feel free to reach out for discussions, collaborations, or just to say [hi](mailto:nigeljaure.t@gmail.com). 🚀
+Let's collaborate and create something amazing! Feel free to reach out for discussions, collaborations, or just to say [hi](mailto:iamtanyazw@gmail.com). 🚀
 
 **#TALLStack #Laravel #Flutter #MySQL**
