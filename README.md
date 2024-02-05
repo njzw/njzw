@@ -25,7 +25,7 @@ I am passionate about continuous learning and staying at the forefront of techno
 
 - [LinkedIn](https://www.linkedin.com/in/nigeljaure)
 - [Twitter](https://twitter.com/iamtanyazw)
-- [Portfolio](https://nigeljaure.com) - Coming soon
+- [Portfolio](https://nigeljaure.co.zw)
 
 ## 🏡 Family First
 
